@@ -1,0 +1,2 @@
+(this["webpackJsonpmarvel-hooks"]=this["webpackJsonpmarvel-hooks"]||[]).push([[1],{46:function(o,n,t){"use strict";function c(){console.log("Dynamical Import")}function l(){console.log("Dynamical Console")}function e(){console.log("Export with default")}t.r(n),t.d(n,"dynamicalImport",(function(){return c})),t.d(n,"dynamicalConsole",(function(){return l})),t.d(n,"default",(function(){return e}))}}]);
+//# sourceMappingURL=1.68fc0e21.chunk.js.map
